@@ -1,0 +1,61 @@
+Horizon,Acteur,Scénario,Score,Rang,Méthode
+H1,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.3000000000000001,1,PROMETHEE
+H1,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H1,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),-0.3000000000000001,3,PROMETHEE
+H1,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.6000000000000001,1,PROMETHEE
+H1,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H1,Collectivites,Scénario 3 : Import H2 national/UE (type C),-0.6000000000000001,3,PROMETHEE
+H1,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.8,1,PROMETHEE
+H1,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H1,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),-0.8,3,PROMETHEE
+H1,Autorites,Scénario 1 : H2 100% Vendée (type A),0.5,1,PROMETHEE
+H1,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H1,Autorites,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H1,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.5,1,PROMETHEE
+H1,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H1,Scientifiques,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H20,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.3000000000000001,1,PROMETHEE
+H20,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H20,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),-0.3000000000000001,3,PROMETHEE
+H20,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.6000000000000001,1,PROMETHEE
+H20,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H20,Collectivites,Scénario 3 : Import H2 national/UE (type C),-0.6000000000000001,3,PROMETHEE
+H20,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.8,1,PROMETHEE
+H20,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H20,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),-0.8,3,PROMETHEE
+H20,Autorites,Scénario 1 : H2 100% Vendée (type A),0.5,1,PROMETHEE
+H20,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H20,Autorites,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H20,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.5,1,PROMETHEE
+H20,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.0,2,PROMETHEE
+H20,Scientifiques,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H50,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.15000000000000013,1,PROMETHEE
+H50,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.15000000000000002,2,PROMETHEE
+H50,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),-0.3000000000000001,3,PROMETHEE
+H50,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.35000000000000003,1,PROMETHEE
+H50,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H50,Collectivites,Scénario 3 : Import H2 national/UE (type C),-0.6000000000000001,3,PROMETHEE
+H50,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.55,1,PROMETHEE
+H50,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H50,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),-0.8,3,PROMETHEE
+H50,Autorites,Scénario 1 : H2 100% Vendée (type A),0.25,1,PROMETHEE
+H50,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H50,Autorites,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H50,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.25,1,PROMETHEE
+H50,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H50,Scientifiques,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H100,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.15000000000000013,1,PROMETHEE
+H100,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.15000000000000002,2,PROMETHEE
+H100,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),-0.3000000000000001,3,PROMETHEE
+H100,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.35000000000000003,1,PROMETHEE
+H100,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H100,Collectivites,Scénario 3 : Import H2 national/UE (type C),-0.6000000000000001,3,PROMETHEE
+H100,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.55,1,PROMETHEE
+H100,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H100,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),-0.8,3,PROMETHEE
+H100,Autorites,Scénario 1 : H2 100% Vendée (type A),0.25,1,PROMETHEE
+H100,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H100,Autorites,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
+H100,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.25,1,PROMETHEE
+H100,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.25,2,PROMETHEE
+H100,Scientifiques,Scénario 3 : Import H2 national/UE (type C),-0.5,3,PROMETHEE
