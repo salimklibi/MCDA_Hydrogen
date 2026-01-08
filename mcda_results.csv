@@ -1,0 +1,61 @@
+Horizon,Acteur,Scénario,Score,Rang,Scénario_idx
+H1,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.6500000000000001,1,1
+H1,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.6111111111111112,2,2
+H1,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),0.35000000000000003,3,3
+H1,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.8,1,1
+H1,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.6305555555555555,2,2
+H1,Collectivites,Scénario 3 : Import H2 national/UE (type C),0.2,3,3
+H1,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.9,1,1
+H1,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.675,2,2
+H1,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),0.1,3,3
+H1,Autorites,Scénario 1 : H2 100% Vendée (type A),0.75,1,1
+H1,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.6277777777777778,2,2
+H1,Autorites,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H1,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.75,1,1
+H1,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.6180555555555556,2,2
+H1,Scientifiques,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H20,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.6500000000000001,1,1
+H20,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.585761071244942,2,2
+H20,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),0.35000000000000003,3,3
+H20,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.8,1,1
+H20,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.6428937622486007,2,2
+H20,Collectivites,Scénario 3 : Import H2 national/UE (type C),0.2,3,3
+H20,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.9,1,1
+H20,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.6289979806108836,2,2
+H20,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),0.1,3,3
+H20,Autorites,Scénario 1 : H2 100% Vendée (type A),0.75,1,1
+H20,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.6320997175835883,2,2
+H20,Autorites,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H20,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.75,1,1
+H20,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.6409706853255238,2,2
+H20,Scientifiques,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H50,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.6412559031877216,1,1
+H50,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.5621862929324564,2,2
+H50,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),0.35000000000000003,3,3
+H50,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.7854265053128691,1,1
+H50,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.6481159306816994,2,2
+H50,Collectivites,Scénario 3 : Import H2 national/UE (type C),0.2,3,3
+H50,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.8854265053128691,1,1
+H50,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.6285684831402023,2,2
+H50,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),0.1,3,3
+H50,Autorites,Scénario 1 : H2 100% Vendée (type A),0.735426505312869,1,1
+H50,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.6273475832550368,2,2
+H50,Autorites,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H50,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.7354265053128691,1,1
+H50,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.6426186188537424,2,2
+H50,Scientifiques,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H100,Industriels_Finance,Scénario 1 : H2 100% Vendée (type A),0.6392149469523614,1,1
+H100,Industriels_Finance,Scénario 2 : H2 Vendée + import régional (type B),0.5612051865609158,2,2
+H100,Industriels_Finance,Scénario 3 : Import H2 national/UE (type C),0.35000000000000003,3,3
+H100,Collectivites,Scénario 1 : H2 100% Vendée (type A),0.7820249115872688,1,1
+H100,Collectivites,Scénario 2 : H2 Vendée + import régional (type B),0.6468895477172736,2,2
+H100,Collectivites,Scénario 3 : Import H2 national/UE (type C),0.2,3,3
+H100,ONG_Locales,Scénario 1 : H2 100% Vendée (type A),0.8820249115872688,1,1
+H100,ONG_Locales,Scénario 2 : H2 Vendée + import régional (type B),0.6278326533615468,2,2
+H100,ONG_Locales,Scénario 3 : Import H2 national/UE (type C),0.1,3,3
+H100,Autorites,Scénario 1 : H2 100% Vendée (type A),0.7320249115872688,1,1
+H100,Autorites,Scénario 2 : H2 Vendée + import régional (type B),0.6263664768834962,2,2
+H100,Autorites,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
+H100,Scientifiques,Scénario 1 : H2 100% Vendée (type A),0.7320249115872688,1,1
+H100,Scientifiques,Scénario 2 : H2 Vendée + import régional (type B),0.6413922358893167,2,2
+H100,Scientifiques,Scénario 3 : Import H2 national/UE (type C),0.25,3,3
